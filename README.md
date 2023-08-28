@@ -9,6 +9,15 @@
 
 ## Installation
 
+Create a `Python 3.11` Environment
+```bash
+conda create --name llm python=3.11 numpy scipy
+```
+then
+```bash
+conda activate llm
+```
+
 Install this plugin in the same environment as `llm`.
 ```bash
 llm install llm-llama-cpp
