@@ -18,6 +18,11 @@ then
 conda activate llm
 ```
 
+Install llm via Homebrew
+```bash
+brew install llm
+```
+
 Install this plugin in the same environment as `llm`.
 ```bash
 llm install llm-llama-cpp
